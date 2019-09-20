@@ -136,6 +136,8 @@
             // cBBoQuaLoi
             // 
             this.cBBoQuaLoi.AutoSize = true;
+            this.cBBoQuaLoi.Checked = true;
+            this.cBBoQuaLoi.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cBBoQuaLoi.Location = new System.Drawing.Point(100, 114);
             this.cBBoQuaLoi.Name = "cBBoQuaLoi";
             this.cBBoQuaLoi.Size = new System.Drawing.Size(73, 17);
